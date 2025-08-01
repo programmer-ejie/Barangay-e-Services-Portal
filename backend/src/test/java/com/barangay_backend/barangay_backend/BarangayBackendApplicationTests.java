@@ -1,10 +1,10 @@
-package com.development.Barangay_e_Services_Portal;
+package com.barangay_backend.barangay_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BarangayEServicesPortalApplicationTests {
+class BarangayBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

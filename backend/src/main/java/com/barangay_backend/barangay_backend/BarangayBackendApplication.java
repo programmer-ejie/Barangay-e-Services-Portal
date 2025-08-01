@@ -1,13 +1,13 @@
-package com.development.Barangay_e_Services_Portal;
+package com.barangay_backend.barangay_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BarangayEServicesPortalApplication {
+public class BarangayBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BarangayEServicesPortalApplication.class, args);
+		SpringApplication.run(BarangayBackendApplication.class, args);
 	}
 
 }

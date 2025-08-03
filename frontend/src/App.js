@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -15,7 +14,7 @@ function App() {
         >
           asdasdasdaxcaxzcasdasdasdasdasdasdasdasdasdas
         </a>
-        
+
       </header>
     </div>
   );

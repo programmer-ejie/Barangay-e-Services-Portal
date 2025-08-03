@@ -11,7 +11,7 @@ function App() {
         </p>
         lorem
         <p>
-          Lorem ipsuasdaadsaasdnsectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lorem ipsuasdaadsaaasdasdasdadsdasididunt ut labore et dolore magna aliqua.
         </p>
         <a
           className="App-link"
